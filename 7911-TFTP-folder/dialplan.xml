@@ -1,0 +1,3 @@
+<DIALTEMPLATE>
+  <TEMPLATE MATCH="*" TIMEOUT="1"/> <!-- Anything. Wait 1 seconds, then dial -->
+</DIALTEMPLATE>
